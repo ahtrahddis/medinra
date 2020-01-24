@@ -73,7 +73,7 @@ You may be quick to say that you have a perfectly good meaning in mind when you 
 
 Well, bull. You have at least two concepts, Self and Self*. What you are describing, what carves reality at the joints, is Self*, an output of the rational thought process. Because your lens distorts, Self and Self* look indistinguishable to you. When you make a function call to ask what process outputs [Self or Self*, since they look the same to you], the answer you invariably get is 'rational thought.' "See," you think, "no delusion!" as you happily feed Self into the processes that generate attachment, craving, hatred, existential angst, etc. etc. from it, even when Self* is not an input that would produce those outputs.
 
-The rationally-derived concept Self2 that you use doesn't and couldn't play the role in your mental machinery that it seems to. When you were young, before you were mature enough to form the concept Self*, you had attachment, craving, and so on. Today, you still do. How likely is it that Self* is responsible for those things right now? When you feel, deep down in your bones, that you want something--sex, drugs, money, status, friendship, happiness, anything--what is the 'you' who appears to want it? Self*? Knowing what you know about human minds, human development and comparative neurophysiology, is the 'you' who appears to want it the kind of thing that is likely to be the output of a rational process?
+The rationally-derived concept Self that you use doesn't and couldn't play the role in your mental machinery that it seems to. When you were young, before you were mature enough to form the concept Self*, you had attachment, craving, and so on. Today, you still do. How likely is it that Self* is responsible for those things right now? When you feel, deep down in your bones, that you want something--sex, drugs, money, status, friendship, happiness, anything--what is the 'you' who appears to want it? Self*? Knowing what you know about human minds, human development and comparative neurophysiology, is the 'you' who appears to want it the kind of thing that is likely to be the output of a rational process?
 
 Think about it. See if you can begin to form a new concept that better captures what could be going on in your mind.
 
@@ -347,4 +347,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.2 - 2019-12-30
+V 1.3 - 2020-01-24
