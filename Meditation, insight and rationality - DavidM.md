@@ -347,4 +347,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.3 - 2020-01-24
+V 1.4 - 2020-01-25
