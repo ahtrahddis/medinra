@@ -1,4 +1,4 @@
-# Meditation, insight and rationality by DavidM
+# Meditation, insight, and rationality by DavidM
 
 This e-book is a collection of texts by [DavidM](https://www.lesswrong.com/users/davidm).
 
